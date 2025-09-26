@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/foodie-finder-21918-21952/frontend_food_app"
+}
